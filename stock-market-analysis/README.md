@@ -15,7 +15,5 @@ This project analyzes **Tesla (TSLA) stock performance** using **Yahoo Finance A
 - Machine Learning (Random Forest for stock price prediction)  
 - Data Visualization   
 
-## 📂 Project Files  
- [`Tesla_stock_market_analysis.py`](Tesla_Stock_Market_Analysis.ipynb) – Python script for stock analysis  
- [`Tesla Stock Market Analysis Report.pdf`](Tesla%Stock%20Market%20Analysis%20Report.pdf) – Full report  
+  
 
