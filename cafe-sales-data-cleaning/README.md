@@ -1,4 +1,4 @@
-#  Cafe Sales Data Cleaning - Python & Pandas  
+#  Cafe Sales Data Cleaning - Python
 
 ##  Overview  
 This project focuses on **cleaning messy cafe sales data** using **Python (Pandas & NumPy)**. The dataset initially contained **missing values, duplicates, and incorrect formatting**, which were corrected to ensure **data accuracy for analysis**.  
