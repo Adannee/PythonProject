@@ -10,5 +10,6 @@ This repository contains various **Python projects**, including **data analysis,
 
  **Cafe Sales Data Cleaning - Pandas & Python**  
 📌 [Cafe Sales Data Cleaning](cafe-sales-data-cleaning/) - Cleaning messy sales data by **handling missing values, removing duplicates, and standardizing formats** for accurate business insights.  
-
+ **Customer Sales Data Cleaning - Pandas **  
+📌 [Customer Sales Data Cleaning](customer-sales-data-cleaning/) - Cleaning messy customer sales data by **handling missing values, removing duplicates, and standardizing formats** for accurate business insights. 
 ---
