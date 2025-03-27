@@ -1,0 +1,101 @@
+Customer ID,Transaction Date,Purchase Amount,Payment Method,Email,Country
+6328,2023-05-25,6906.47,Credit Card,ricardo65@gmail.com,Unknown
+5999,2024-11-30,2162.24,Bank Transfer,mollybooker@moore.com,Germany
+1256,2024-01-20,3412.12,PayPal,zscott@yahoo.com,France
+2147,2024-03-18,300.7,Credit Card,tylerhayes@yahoo.com,Unknown
+4892,2024-01-09,1692.55,Debit Card,tonyaperez@jones.com,Canada
+5388,2023-09-09,4412.63,PayPal,ujordan@nelson.biz,Canada
+2546,2023-08-01,11199.48,Unknown,dodsonmatthew@hotmail.com,Unknown
+8461,2023-07-18,4732.26,Unknown,invalid_email,Unknown
+2718,2024-10-28,9111.85,Credit Card,millerkristen@lucas-simon.com,Unknown
+2087,2025-03-03,6673.79,Unknown,sandersadam@yahoo.com,UK
+7827,2024-07-06,5290.64,Bank Transfer,hblanchard@brewer.com,Unknown
+3230,2023-09-01,2108.43,Debit Card,invalid_email,Germany
+3488,2024-12-02,1096.19,Debit Card,herrerajames@schmidt.com,USA
+6156,2024-05-22,4073.18,PayPal,hwallace@lane-obrien.info,France
+3293,2023-07-18,7332.98,Unknown,luis00@gmail.com,USA
+7950,2023-11-08,2824.97,Debit Card,hdavenport@gmail.com,UK
+4916,2023-11-04,804.93,Credit Card,meyerjames@ellis.com,Unknown
+6136,2023-12-21,354.62,Bank Transfer,invalid_email,Unknown
+9673,2024-03-26,13154.99,Bank Transfer,jessica78@harvey.org,Unknown
+5078,2023-07-08,12429.2,PayPal,marshalldaniel@yahoo.com,France
+6522,2024-09-06,1290.39,Credit Card,shanemiranda@yahoo.com,Unknown
+1727,2023-05-21,1739.08,Debit Card,hollycooper@hotmail.com,France
+6849,2024-10-22,10554.24,Debit Card,matthewlin@garza.com,Unknown
+7880,2024-03-25,5883.84,Unknown,masseysheena@gmail.com,UK
+6235,2023-12-25,7613.9,Bank Transfer,annajackson@bennett-jones.com,UK
+3286,2024-04-02,1141.34,PayPal,johnsonkathryn@johnson.biz,UK
+8645,2024-07-05,7836.48,Unknown,joshuagoodwin@yahoo.com,UK
+7729,2023-06-17,3682.59,PayPal,wlee@hotmail.com,Germany
+8735,2024-11-25,2509.93,PayPal,matthewhart@yahoo.com,Canada
+7700,2023-04-05,2335.06,Bank Transfer,lee17@davenport.com,Unknown
+7439,2025-03-05,10827.45,Unknown,jclark@barron.com,Canada
+8772,2024-03-18,1555.89,Credit Card,isimpson@reyes.org,Unknown
+9594,2024-08-23,8.21,Credit Card,cheryl07@hotmail.com,USA
+8125,2024-07-24,4942.06,Credit Card,gsmith@gmail.com,UK
+8918,2024-09-15,9395.84,PayPal,sramirez@gmail.com,USA
+3561,2024-09-02,9381.56,PayPal,craigmccarthy@valencia.com,France
+6520,2023-09-15,6530.27,Unknown,rosenicole@yahoo.com,USA
+8834,2024-11-14,7073.2,Credit Card,janelewis@hotmail.com,Unknown
+2780,2024-11-02,5956.92,Bank Transfer,chadmoore@henderson-gonzalez.info,USA
+4824,2023-12-10,6421.48,Credit Card,invalid_email,Unknown
+8399,2023-11-16,10115.07,Unknown,kbeasley@gmail.com,Germany
+2072,2023-12-29,13800.34,Bank Transfer,daniel67@richardson.org,Germany
+8869,2024-02-24,10286.47,PayPal,jimmy00@gmail.com,Unknown
+9739,2023-08-01,5187.4,Credit Card,thomasbeasley@thompson-flores.com,France
+1065,2023-06-11,2981.3,Debit Card,bridgetbush@hotmail.com,UK
+2636,2023-10-01,812.35,Unknown,invalid_email,France
+9563,2025-02-05,8382.49,Bank Transfer,ryan23@oliver-valentine.biz,Germany
+5608,2024-05-29,6970.06,PayPal,fknight@butler.com,Unknown
+7943,2023-12-05,4134.62,Unknown,brucefleming@yahoo.com,Unknown
+4507,2024-09-25,8834.7,Credit Card,shill@gmail.com,Germany
+9542,2023-04-28,1.05,Bank Transfer,stevenskelsey@yahoo.com,Germany
+9180,2024-10-11,7168.4,Unknown,nsantiago@yahoo.com,Unknown
+9615,2025-01-03,4488.47,Unknown,jonathan46@rios.net,USA
+2574,2024-06-29,318.24,PayPal,qhiggins@hotmail.com,UK
+4190,2024-10-21,3980.45,Bank Transfer,pbentley@taylor-case.com,USA
+6927,2023-04-23,1682.2,Unknown,kaitlin89@yahoo.com,France
+3953,2025-01-11,10859.99,PayPal,invalid_email,Canada
+9149,2023-06-19,6106.57,Bank Transfer,espinozadouglas@gmail.com,Unknown
+1341,2023-09-19,5206.4,Debit Card,vasquezzachary@gmail.com,Unknown
+3345,2023-07-07,1418.64,Bank Transfer,kmoran@yahoo.com,Canada
+3203,2024-10-29,3777.07,Bank Transfer,ryanleach@allen-gutierrez.com,Canada
+6630,2023-10-07,9392.76,Bank Transfer,invalid_email,France
+4572,2023-08-24,1815.13,Debit Card,veronicaleblanc@reynolds-hall.com,UK
+2636,2024-10-20,2143.81,Unknown,heatherlopez@yahoo.com,Unknown
+9032,2024-05-25,10055.71,PayPal,weaverdanielle@powers.info,France
+7405,2024-03-23,377.68,Credit Card,crawfordteresa@munoz.com,USA
+2178,2024-09-25,3591.25,PayPal,invalid_email,Unknown
+3709,2024-04-23,3671.18,Unknown,richardsondavid@hotmail.com,France
+2566,2023-05-10,4712.37,PayPal,davidcastillo@craig-sellers.com,France
+2767,2024-07-15,10220.67,Debit Card,steven16@smith.com,Unknown
+3557,2025-02-04,3503.76,Credit Card,deborah56@whitehead.info,UK
+1456,2024-03-07,12.77,PayPal,gcarr@pennington-carter.com,Canada
+6843,2024-05-09,7260.36,Debit Card,peggy99@herrera.com,Canada
+8752,2023-09-10,1077.45,PayPal,jonesbrett@hotmail.com,Canada
+2915,2023-05-11,939.8,PayPal,invalid_email,UK
+6749,2024-09-21,3457.52,PayPal,james63@gmail.com,Germany
+2375,2023-09-05,6092.36,Credit Card,wesleyrichards@cole.net,France
+2832,2023-05-16,5716.68,Credit Card,wanda68@gmail.com,UK
+5689,2023-06-21,1098.39,Bank Transfer,mhines@gmail.com,Unknown
+1930,2025-03-13,5349.76,PayPal,zmayer@crane-flores.com,Canada
+4089,2024-04-22,10168.39,Unknown,kirbykimberly@price.net,France
+5175,2025-01-22,3315.21,Unknown,invalid_email,UK
+7331,2023-11-07,1871.51,Credit Card,kaitlyn38@schneider.net,France
+5417,2024-05-17,2522.15,Credit Card,whitakermatthew@owens-hughes.net,Germany
+7579,2024-12-20,3262.27,Unknown,jessicaburke@smith-harper.biz,Unknown
+7262,2023-11-20,4507.82,Unknown,zross@yahoo.com,Unknown
+1891,2023-11-29,4524.19,PayPal,vjackson@rowe.com,Canada
+2909,2024-05-29,4705.91,Credit Card,vaughntodd@lopez.biz,Unknown
+8403,2024-02-28,2232.15,Bank Transfer,fischerdenise@lopez-arias.biz,Canada
+7074,2024-07-10,1952.87,PayPal,wrightdamon@clarke-skinner.info,UK
+6384,2023-05-14,5603.23,Credit Card,ryan33@rivera.com,UK
+2087,2023-09-10,4365.41,Unknown,teresa95@hotmail.com,USA
+8544,2024-11-23,2839.64,Bank Transfer,anna99@gmail.com,UK
+7886,2025-02-14,5854.8,Credit Card,archergregory@whitehead-galvan.net,USA
+6447,2023-09-09,8901.05,Unknown,angiefox@malone.info,Unknown
+9211,2023-06-07,6113.93,Unknown,invalid_email,France
+4845,2024-08-19,4200.0,Debit Card,cindy70@williams.com,France
+7447,2023-05-31,5329.67,Debit Card,thompsoncolleen@perry.com,UK
+8470,2023-10-15,91.74,Unknown,obrewer@hotmail.com,UK
+7430,2024-01-19,719.65,Credit Card,invalid_email,Canada
