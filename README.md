@@ -13,4 +13,8 @@ This repository contains various **Python projects**, including **data analysis,
 
  **Customer Sales Data Cleaning - Pandas**  
 📌 [Customer Sales Data Cleaning](customer-data-cleaning/) - Cleaning messy customer sales data by **handling missing values, removing duplicates, and standardizing formats** for accurate business insights. 
+
+**Housing Price Prediction - Machine Learning & Linear Regression**  
+📌 [Housing Price Prediction](House_Price_Prediction/) - predicts house prices using the Ames Housing Dataset. We apply Linear Regression with Feature Engineering to improve predictive accuracy.
+
 ---
