@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Handwritten Digit Classifier</title>
+</head>
+<body>
+    <h2>Upload a Handwritten Digit</h2>
+    <input type="file" id="fileInput">
+    <button onclick="upload()">Predict</button>
+    <p id="result"></p>
+
+    <script>
+        function upload() {
+            let file = document.getElementById('fileInput').files[0];
+            let formData = new FormData();
+            formData.append('image', file);
+
+            fetch('/predict', { method: 'POST', body: formData })
+                .then(response => response.json())
+                .then(data => document.getElementById('result').innerText = "Prediction: " + data.prediction);
+        }
+    </script>
+</body>
+</html>
