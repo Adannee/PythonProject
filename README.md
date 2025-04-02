@@ -19,5 +19,4 @@ This repository contains various **Python projects**, including **data analysis,
 
 **Customer Segmentation Analysis - Machine Learning & KMean Clustering** 
 📌 [Customer_segmentation](customer_segmentation/) - applies K-Means Clustering to segment customers based on their shopping behavior to identify distinct customer groups for better marketing strategies.
-
 ---
