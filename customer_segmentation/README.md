@@ -5,10 +5,12 @@ This project applies **K-Means Clustering** to segment customers based on their 
 
 ##  Dataset Information  
 - **Columns:**
+  - `Customer Id`: Identification number of customer
   - `Age`: Age of the customer.
   - `Gender`: Male/Female.
   - `Quantity`: Number of items purchased.
   - `Price`: Total purchase amount.
+  - `Category`: Category of items being purchased
   - `Payment Method`: How the customer paid (Card, Cash, etc.).
   - `Shopping Mall`: Mall where the purchase was made.
 
