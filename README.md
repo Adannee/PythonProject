@@ -17,4 +17,7 @@ This repository contains various **Python projects**, including **data analysis,
 **Housing Price Prediction - Machine Learning & Linear Regression**  
 📌 [Housing Price Prediction](House_Price_Prediction/) - predicts house prices using the Ames Housing Dataset. We apply Linear Regression with Feature Engineering to improve predictive accuracy.
 
+**Customer Segmentation Analysis - Machine Learning & KMean Clustering** 
+📌 [Customer_segmentation](customer_segmentation/) - pplies K-Means Clustering to segment customers based on their shopping behavior to identify distinct customer groups for better marketing strategies.
+
 ---
