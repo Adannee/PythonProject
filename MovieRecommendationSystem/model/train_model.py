@@ -5,7 +5,7 @@ from surprise import Dataset, Reader
 from surprise.model_selection import train_test_split
 
 
-ratings = pd.read_csv("data/ratings.dat", sep="::", engine="python", names=["userId", "movieId", "rating", "timestamp"])  
+ratings = pd.read_csv("/Users/ivyadiele/Desktop/PythonProject/MovieRecommendationSystem/data/ratings.dat", sep="::", engine="python", names=["userId", "movieId", "rating", "timestamp"])  
 
 
 reader = Reader(rating_scale=(0.5, 5.0))
@@ -21,7 +21,7 @@ model = SVD()
 model.fit(trainset)
 
 
-with open("model/model.pkl", "wb") as f:
+with open("/Users/ivyadiele/Desktop/PythonProject/MovieRecommendationSystem/model/model.pkl", "wb") as f:
     pickle.dump(model, f)
 
 print("Model training completed & saved as 'model.pkl'")
