@@ -18,7 +18,7 @@ A personalized movie recommendation system built using the **MovieLens dataset**
 - **Model Serialization** with Pickle (`model.pkl`)
 - **CLI Support** for offline testing
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
