@@ -20,4 +20,14 @@ This repository contains various **Python projects**, including **data analysis,
 **Customer Segmentation Analysis - Machine Learning & KMean Clustering** 
 📌 [Customer_Segmentation](customer_segmentation/) - applies K-Means Clustering to segment customers based on their shopping behavior to identify distinct customer groups for better marketing strategies.
 
+**Movie Recommendation System - Collaborative Filtering & Content-Based Filtering**  
+📌 [Movie Recommendation System](MovieRecommendationSystem/) - A personalized movie recommendation system built using the MovieLens dataset and implemented with Collaborative Filtering and Content-Based Filtering techniques.
+
+**Credit Card Fraud Detection - Machine Learning & Isolation Forest**  
+📌 [Credit Card Fraud Detection](FraudDetection/) - This project implements a machine learning model to detect fraudulent credit card transactions using anomaly detection techniques like Isolation Forest. The goal is to accurately identify suspicious behavior in an imbalanced dataset.
+
+**Tesla Stock Price Forecasting (Time Series) - ARIMA & LSTM**  
+📌 [Tesla Stock Price Forecasting](TimeSeriesForecasting/) - This project uses two powerful time series forecasting models ARIMA and LSTM to predict Tesla stock prices based on historical data.
+
+
 ---
