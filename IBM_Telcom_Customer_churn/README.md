@@ -1,10 +1,10 @@
-# Customer Churn Analysis — NovaSub Telecom
+# Customer Churn Analysis — IBM Telecom
 
 > **The business question:** Monthly revenue is flat despite growing signups. Is churn the problem, and where should retention spend go?
 
 ---
 
-## Key Findings (TL;DR)
+## Key Findings
 
 - **26.5% of customers churn** — more than 1 in 4, well above the healthy industry benchmark of 5–7%
 - **$7.75M in lifetime value** has already been lost to churned customers
@@ -184,8 +184,6 @@ churn-analysis/
 ├── tenure_retention.png          # Retention curve by tenure
 ├── model_comparison.png          # ROC curves + confusion matrix
 ├── precision_recall.png          # Threshold trade-off curve
-├── risk_segmentation.png         # Customer risk segments
-├── shap_importance.png           # Feature importance (SHAP)
 └── README.md
 ```
 
